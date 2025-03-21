@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+
+
+.hero-image{
+  background: url("../assets/img/hero.png") no-repeat center/cover;
+}
+
+.rasm{
+  background: url("../assets/svg/hero.svg") no-repeat center/cover;
+}
+
+.eighth{
+  background: url("../assets/svg/eighthdayImg.svg") no-repeat center/cover;
+}
+
+.firstDay{
+  background: url("../assets/firstDayBg.png") no-repeat center/cover;
+}
+
+.hero-image{
+  background: url("../assets/hero.png") no-repeat center/cover;
+  
+}
+.thirdDay{
+  background: url("../assets/svg/thirdDay.svg") no-repeat center/cover;
+}
+.ocean{
+  background: url("../assets/oceanBg.png") no-repeat center/cover;
+}
